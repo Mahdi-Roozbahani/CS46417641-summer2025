@@ -1,0 +1,14 @@
+people:
+  - 18:
+    name: "Paria Nourmohammadi"
+    email: "pnourmoh3@gatech.edu"
+    picture: "/profiles/pn.png"
+  - 36:
+    name: "Richard Koulen"
+    email: "rkoulen3@gatech.edu"
+    picture: "/profiles/rk.png"
+  - 41:
+    name: "Ghazal Mirzazadeh"
+    email: "gmirzazadeh3@gatech.edu"
+    picture: "/profiles/gmh.png"
+ 

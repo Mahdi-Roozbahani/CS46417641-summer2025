@@ -1,0 +1,46 @@
+---
+people:
+  # - 1:
+  #   name: "Ruijia Wang"
+  #   email: rwang@gatech.edu
+  #   picture: /profiles/rw.png
+  # - 2:
+  #   name: "Rusty Utomo"
+  #   email: rutomo6@gatech.edu
+  #   picture: /profiles/ru.png
+  # - 3:
+  #   name: "Kevin Li"
+  #   email: kli361@gatech.edu
+  #   picture: /profiles/kl.png
+  # - 4:
+    # name: "Gururaj Deshpande"
+    # email: gurudesh@gatech.edu
+    # picture: /profiles/gd.png
+  - 5:
+    name: "Huili Huang"
+    email: hhuang413@gatech.edu
+    picture: /profiles/hh.jpg  
+  # - 5:
+    # name: "Will Spaeth"
+    # email: jspaeth7@gatech.edu
+    # picture: /profiles/ws.png
+  # - 6:
+    # name: "Bryan Zhao"
+    # email: bzhao90@gatech.edu
+    # picture: /profiles/bz.png
+  # - 7:
+    # name: "Mohammad Taher"
+    # email: "mtaher3@gatech.edu"
+    # picture: "/profiles/mt.png"
+  # - 8:
+    # name: "Krish Nathan"
+    # email: "knathan8@gatech.edu"
+    # picture: "/profiles/kn.png"
+  # - 9:
+    # name: "Shail Patel"
+    # email: "spatel776@gatech.edu"
+    # picture: "/profiles/spl.png"   
+  # - 19:
+    # name: "Alan Tao"
+    # email: "atao31@gatech.edu"
+    # picture: "/profiles/at.png"    
