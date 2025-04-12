@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grading on Class Homepage</title>
+    <link>/docs/grading/</link>
+    <description>Recent content in Grading on Class Homepage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/docs/grading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Categories</title>
+      <link>/docs/grading/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/grading/categories/</guid>
+      <description>&lt;script type=&#34;text/javascript&#34; async&#xD;&#xA;  src=&#34;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML&#34;&gt;&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&lt;h1 id=&#34;categories&#34;&gt;&#xD;&#xA;  Categories&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#categories&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;exceptional-circumstances&#34;&gt;&#xD;&#xA;  Exceptional Circumstances&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exceptional-circumstances&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;../../docs/guidelines/general/index.html#exceptional-circumstances&#34;&gt;Explanation in General section.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;assignments-50&#34;&gt;&#xD;&#xA;  Assignments (50%)&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#assignments-50&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;There will be four assignments. Each one is designed to improve and test your understanding of the materials. Assignments will have both programming and written analysis components.&lt;/p&gt;&#xA;&lt;p&gt;We have 4 big assignments in total. The reason we do not call them projects is because our class has a project as well. Consider each assignment as one individual big project. Assignments take time to finish them. YOU NEED TO START WORKING ON ASSIGNMENTS AS SOON AS THEY ARE OUT. Visit this course’s Canvas and GradeScope for the assignment documents. See the schedule table above for deliverable due dates. (Topics are subject to change):&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
