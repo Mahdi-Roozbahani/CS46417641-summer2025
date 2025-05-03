@@ -14,8 +14,8 @@ This recognition also benefits students’ academic and professional growth—aw
 # Project Awardees
 Below you will find awardees for each semester. The most recent semester is expanded by default, while previous semesters are collapsed for a cleaner browsing experience. Click on a specific semester to view its award recipients.
 
-<details open>
-<summary><strong>Project Awardees for Spring 2025</strong></summary>
+<details close>
+<summary><strong>Project Awardees for Summer 2025</strong></summary>
 
 ### Future Awardee Project Title
 - **Project Website:** [https://www.github.com/gburdell3/outstanding_project](https://www.github.com/gburdell3/outstanding_project)  
@@ -28,7 +28,28 @@ Below you will find awardees for each semester. The most recent semester is expa
 <!-- Add more projects here as needed, each in the same format -->
 
 </details>
+<details open>
+<summary><strong>Project Awardees for Spring 2025</strong></summary>
 
+### CEGS-LIME: Clustering-Enhanced, Graph-Search LIME for CNN Explainability
+- **Project Website:** [https://github.gatech.edu/pages/vkulkarni46/CS-7641-ML-Project/](https://github.gatech.edu/pages/vkulkarni46/CS-7641-ML-Project/) 
+- **Contributors:** Vineet Kulkarni, Amogh Palasamudram, Ayush Panda, Khooshrin Pithawalla, Krishna Ravishankar  
+
+### Advanced Quadrotor Control & Stabilization
+- **Project Website:** [https://github.gatech.edu/pages/xyang626/ML-7641-Quadrotor-Group/docs/index.html](https://github.gatech.edu/pages/xyang626/ML-7641-Quadrotor-Group/docs/index.html)  
+- **Contributors:** Dyllon Preston, Evan Dodani, Dennis Anthony, Ajay Tak, Xinyi Yang  
+
+### Restaurant Review Prediction
+- **Project Website:** [https://github.gatech.edu/pages/agoli6/restaurant-review-prediction/](https://github.gatech.edu/pages/agoli6/restaurant-review-prediction/)  
+- **Contributors:** Venkata Goli, Jack Hayley, Vasilisa Lyubimova, Prajval Manivannan, Roderic Parson
+
+### Learning UAV State Estimator
+- **Project Website:** [https://github.gatech.edu/pages/adeb40/ML-Project-Group-60/](https://github.gatech.edu/pages/adeb40/ML-Project-Group-60/)  
+- **Contributors:** Aditya Deb, Benjamin Monnig, Hunter Kuperman, Tristan Thakur, Xiaomeng Ye
+
+<!-- Add more projects here as needed, each in the same format -->
+
+</details>
 
 <!-- </details>
 
