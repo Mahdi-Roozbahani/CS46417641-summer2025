@@ -1,4 +1,8 @@
 people:
+  - 17:
+    name: "Parisa Babolhavaeji"
+    email: "pbabolhavaeji3@gatech.edu"
+    picture: "/profiles/pb.png"
   - 18:
     name: "Paria Nourmohammadi"
     email: "pnourmoh3@gatech.edu"
@@ -11,4 +15,8 @@ people:
     name: "Ghazal Mirzazadeh"
     email: "gmirzazadeh3@gatech.edu"
     picture: "/profiles/gmh.png"
+  - 69:
+    name: "Yadhu Kartha"
+    email: "ykartha6@gatech.edu"
+    picture: "/profiles/yk.png"    
  
