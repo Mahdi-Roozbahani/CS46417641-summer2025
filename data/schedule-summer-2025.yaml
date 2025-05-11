@@ -5,7 +5,7 @@ tableRows:
     Dates: "5/12 - 5/16"
     Topics:
       - "[*Course Overview](/course/01-introduction.pdf) (L1)"
-      - "[Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L2)"
+      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L2)"
     Quizzes: "Q0 - L1 | Q1 - L2"
     Readings:
       - "[GT Honor Code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code);"
