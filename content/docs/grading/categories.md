@@ -63,7 +63,7 @@ This quiz will test you on the course deadlines and rules. You can simply obtain
 
 ## Quizzes (15%)
 
-There will be 14 quizzes throughout the semester (excluding syllabus quiz). Each quiz will be ~1.07% of your final score. **All quizzes are mandatory.** Quizzes are open notes and will be proctored using Honorlock. To take a quiz, you must have a stable broadband internet connection, a webcam, a microphone, a valid photo ID, and Chrome as your web browser. To ensure a smooth experience, please complete Quiz 0 (Practice Quiz) to familiarize yourself with the platform before your first graded quiz. Be sure to consult the [Honorlock Student Guide](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0026035) for important technical requirements. Remember, each quiz must be completed independently, without any assistance from others.
+There will be 13 quizzes throughout the semester (excluding syllabus quiz). Each quiz will be ~1.15% of your final score. **All quizzes are mandatory.** Quizzes are open notes and will be proctored using Honorlock. To take a quiz, you must have a stable broadband internet connection, a webcam, a microphone, a valid photo ID, and Chrome as your web browser. To ensure a smooth experience, please complete Quiz 0 (Practice Quiz) to familiarize yourself with the platform before your first graded quiz. Be sure to consult the [Honorlock Student Guide](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0026035) for important technical requirements. Remember, each quiz must be completed independently, without any assistance from others.
 
 The topic of each quiz will coincide roughly with the content covered in class on that week.
 
