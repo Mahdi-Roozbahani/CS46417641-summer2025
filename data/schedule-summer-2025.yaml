@@ -20,7 +20,7 @@ tableRows:
     Week: 2
     Dates: "5/19 - 5/23"
     Topics:
-      - "[Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L3)"
+      - "[*Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L3)"
       - "[Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L4)"
     Homework:
       - "A1 out 5/19"
