@@ -8,7 +8,7 @@ title: "Office Hours"
 
 ## Overview
 
-Office hours will be in a hybrid mode for both online and in-person. We will send an announcement on Ed regarding office hours and when it will start. Please follow the instruction on the Excel Sheet provided on Canvas under **Announcements/Office Hours Link** [[Undergrad](https://gatech.instructure.com/courses/427862/discussion_topics/2065363) | [Grad](https://gatech.instructure.com/courses/427876/discussion_topics/2065361)] to signup for a 15-minutes slot with one of the TAs. You need to add your name and question of interest. If you require more than 15 minutes, please advise the TAs.
+Office hours will be in a hybrid mode for both online and in-person. We will send an announcement on Ed regarding office hours and when it will start. Please follow the instruction on the Excel Sheet provided on Canvas under **Announcements/Office Hours Link** [[Undergrad](https://gatech.instructure.com/courses/467214/discussion_topics/2147177) | [Grad](https://gatech.instructure.com/courses/467206/discussion_topics/2147225)] to signup for a 15-minutes slot with one of the TAs. You need to add your name and question of interest. If you require more than 15 minutes, please advise the TAs.
 
 Be aware that some TAs have physical hours while others have virtual hours. If you want virtual hours, try to schedule with a corresponding virtual TA. Please do not change the other part of the Excel Sheet.
 
